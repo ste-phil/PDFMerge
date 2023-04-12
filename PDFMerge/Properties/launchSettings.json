@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PDFMerge (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "PDFMerge (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
